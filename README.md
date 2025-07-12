@@ -1,2 +1,4 @@
 # git-githubtutorial
-Learning to use git &amp; github
+This is my first repository.
+<br>
+Author : Sumit Mishra
