@@ -1,4 +1,4 @@
 # git-githubtutorial
 This is my first repository.
 <br>
-Author : Sumit Mishra
+Author : Sumit M
